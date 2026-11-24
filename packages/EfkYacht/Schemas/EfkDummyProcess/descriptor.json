@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "75d399b3-5b2c-402a-83ec-018089956a0a",
     "Name": "EfkDummyProcess",
-    "ModifiedOnUtc": "\/Date(1795554108000)\/",
+    "ModifiedOnUtc": "\/Date(1795554767000)\/",
     "ManagerName": "ProcessSchemaManager",
     "Caption": "Dummy process",
     "DependsOn": []
